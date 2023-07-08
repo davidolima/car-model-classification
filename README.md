@@ -10,9 +10,9 @@ These are the models I chose:
 We were instructed to train these models and evaluate their performance through the construction of graphs and using the k-fold cross-validation method.
 
 ## My Results
-### Trained on 50 epochs and using 3-fold cross-validation
+Although the results weren't the greatest, considering the limited time alocated for this project, I see it as a good result. All models were trained on 50 epochs and using 3-fold cross-validation, more information can be found in the [main notebook](https://github.com/davidolima/car-model-classification/blob/main/main.ipynb).
 
 | Model | Loss | Accuracy | Recall | Precision | F1-Score | mAP |
 |  ---  |  --- |    ---   |   ---  |    ---    |    ---   | --- |
-| VGG-19 | 3.778 | 0.284 | 0.177 | 0.495 | 0.259 | 0.402 |
-| ResNet50V2 | 62.971 |  0.397   | 0.397  |   0.397   |  0.397   | 0.505 |
+| VGG-19 | 3.970 |  0.292   | 0.206  |   0.494   |  0.289   | 0.405 |
+| ResNet50V2 | 62.588 |  0.386   | 0.386  |   0.387   |  0.386   | 0.495 |
