@@ -15,4 +15,4 @@ We were instructed to train these models and evaluate their performance through 
 | Model | Loss | Accuracy | Recall | Precision | F1-Score | mAP |
 |  ---  |  --- |    ---   |   ---  |    ---    |    ---   | --- |
 | VGG-19 | 3.778 | 0.284 | 0.177 | 0.495 | 0.259 | 0.402 |
-| ResNet50V2 | - |    -   |   -  |    -    |    -   | - |
+| ResNet50V2 | 62.971 |  0.397   | 0.397  |   0.397   |  0.397   | 0.505 |
